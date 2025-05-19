@@ -1,0 +1,5 @@
+SELECT
+AVG(temperature)
+from nyc_weather
+WHERE
+date BETWEEN '12/19/2020 ' and '12/30/2020'
