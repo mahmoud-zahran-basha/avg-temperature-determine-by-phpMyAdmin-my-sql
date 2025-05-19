@@ -1,0 +1,1 @@
+# avg-temperature-determine-by-phpMyAdmin-my-sql
